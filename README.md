@@ -1,0 +1,4 @@
+yagunosy
+========
+
+Yet another Gunosy
